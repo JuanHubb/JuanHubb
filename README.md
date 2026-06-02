@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer & Student Entrepreneur 🚀</strong><br>
+  <strong>Full-Stack Developer 🚀</strong><br>
   Focused on launching robust technical web/mobile services and building secure architectures.
 </p>
 
