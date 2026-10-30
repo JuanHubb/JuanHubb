@@ -108,8 +108,8 @@ public final class HongJuHan implements Developer {
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/JuanHubb/CrewSom">CrewSom</a></b><br />
-      <sub>Three.js · GSAP · PWA</sub>
-      <p>The WebGL edition of CrewSo for the browser — a 3D island scene with smooth motion, installable as a progressive web app.</p>
+      <sub>Three.js · GSAP · Vanilla JS</sub>
+      <p>The WebGL edition of CrewSo for the browser — a low-poly 3D island where workouts fuel a bridge-building voyage across an archipelago.</p>
       <sub><a href="https://crew-som.vercel.app">Live ↗</a> · <a href="https://github.com/JuanHubb/CrewSom">Code</a></sub>
     </td>
     <td width="33%" valign="top">
